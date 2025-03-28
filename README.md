@@ -1,4 +1,4 @@
-# Schedule-1-Demo-online-balance-changer
+# Schedule-1-Demo-online-balance-changer (Changes Online money to 580k)
 (also PLEASE DO NOT TOUCH KEYBOARD/MOUSE WHILE THE SCRIPT IS RUNNING!! IT WILL JUST BREAK IT AND MAKE DO RANDOM THINGS!)
 ## setup:
 
