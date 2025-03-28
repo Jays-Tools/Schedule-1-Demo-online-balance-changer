@@ -1,5 +1,5 @@
 # Schedule-1-Demo-online-balance-changer
-
+(also PLEASE DO NOT TOUCH KEYBOARD/MOUSE WHILE THE SCRIPT IS RUNNING!! IT WILL JUST BREAK IT AND MAKE DO RANDOM THINGS!)
 ## setup:
 
 You need python! you can get python [here](https://www.python.org/)
